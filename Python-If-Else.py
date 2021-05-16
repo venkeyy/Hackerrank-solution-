@@ -6,7 +6,6 @@ If  is even and in the inclusive range of  to , print Not Weird
 If  is even and in the inclusive range of  to , print Weird
 If  is even and greater than , print Not Weird
 """
-#!/bin/python3
 
 import math
 import os
